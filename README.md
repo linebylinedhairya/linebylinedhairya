@@ -1,25 +1,33 @@
-# ⚡ Hello World, I'm Dhairya! 👋
+# print("Hello World, I'm Dhairya!")
 
 <samp>
-<h3>┌── [linebylinedhairya@system] ~ Execution Mode: Active</h3>
-<h3>├── 🚀 Core Directive : Building elegant solutions line by line.</h3>
-<h3>├── 🛠️ Current Status   : Going absolutely crazy with new tech.</h3>
-<h3>└── ⚡ System Rule     : "Line by line" is how history is coded.</h3>
+<h3>┌── [linebylinedhairya@python] ~ Active Workspace</h3>
+<h3>├── Current Focus : Mastering Python Core & Automation.</h3>
+<h3>├── Learning State  : Writing scripts line by line.</h3>
+<h3>└── Dev Philosophy  : Beautiful is better than ugly. (PEP 8)</h3>
 </samp>
 
 ---
 
-### 🖥️ Operational Tech Stack
+### Python Toolbelt
 
-#### ⚔️ Core Programming Languages
-`JavaScript` • `Python` • `HTML5` • `CSS3` • `SQL`
+#### Core Language & Scripts
+`Python 3.x` • `Object-Oriented Programming (OOP)` • `Scripting`
 
-#### ⚙️ Tools, Environments & Platforms
-`Git` • `GitHub` • `VS Code` • `Node.js` • `Linux Terminal`
+#### Tools & Development Environment
+`VS Code` • `IDLE / PyCharm` • `Git` • `GitHub` • `Terminal`
 
 ---
 
-### 📊 Real-Time Diagnostic Metrics
+### Learning Roadmap & Milestones
+- [x] Master Python Variables, Loops, and Functions
+- [ ] Build automated file/task scripts
+- [ ] Explore Object-Oriented Programming (OOP)
+- [ ] Connect scripts to Data APIs 
+
+---
+
+### Live GitHub Metrics
 
 <p align="left">
   <img src="https://vercel.app" alt="Dhairya's Stats" width="49%" />
